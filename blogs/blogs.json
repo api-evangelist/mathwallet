@@ -1,0 +1,14 @@
+{
+  "repo": "mathwallet",
+  "feeds": [
+    {
+      "source": "https://doc.mathwallet.org/",
+      "feed_url": "https://doc.mathwallet.org/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}
